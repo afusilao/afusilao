@@ -1,16 +1,42 @@
-## Hi there 👋
+<div align="center" width="50">   
+</div>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm José</h1>
 
-<!--
-**afusilao/afusilao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">A passionate Geek from Spain 🇪🇸
 
-Here are some ideas to get you started:
+## About Me :
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I am currently learning **SQL**, and **Cybersecurity**.
+- 💬 Ask me about HTML, SQL, ...
+- 🎓 Studient [INS La Ferreria](https://agora.xtec.cat/ieslaferreria/)
+- 📫 How to contact me *jose@agencyblue.es* **or https://instagram.com/desconfigurao**
+- 💬 Owner [AgencyBlue](mailto:hola@agencyblue.es)
+- ⚡ Fun fact: *I tried to create a Chatbot robot and have it be connected to your questions. If you insult it, it will buy nasty stuff.*
+
+<br>
+
+## Connect with me :
+
+<br>
+
+[![@desconfigurao](https://img.icons8.com/fluency/48/000000/instagram-new.png "@j2k.klk")](https://www.instagram.com/desconfigurao) 
+[![@afusilao_](https://img.icons8.com/fluency/48/000000/twitter-squared.png "@j20k_")](https://twitter.com/afusilao) 
+
+<br>
+
+## Lenguajes and tools:
+
+<br>
+
+<img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> <img src="https://img.icons8.com/color/48/000000/css3.png"/> <img src="https://img.icons8.com/color/48/000000/sass.png"/> <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/> <img src="https://img.icons8.com/office/48/000000/react.png"/> <img src="https://img.icons8.com/color/48/000000/nextjs.png"/>
+
+<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/> <img src="https://img.icons8.com/officel/48/000000/php-logo.png"/> <img src="https://img.icons8.com/fluency/48/000000/laravel.png"/> <img src="https://img.icons8.com/fluency/48/000000/wordpress.png"/>
+
+<img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> <img src="https://img.icons8.com/color/48/000000/mongodb.png"/> <img src="https://img.icons8.com/color/48/000000/firebase.png"/>
+
+<img src="https://img.icons8.com/color/48/000000/npm.png"/>
+
+<br>
+
+---
+
