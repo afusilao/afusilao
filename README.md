@@ -7,7 +7,7 @@
 ## About Me :
 
 - 🌱 I am currently learning **SQL**, and **Cybersecurity**.
-- 💬 Ask me about HTML, SQL, ...
+- 💬 Ask me about HTML, SQL, CODEX, MariaDB ...
 - 🎓 Studient [INS La Ferreria](https://agora.xtec.cat/ieslaferreria/)
 - 📫 How to contact me *jose@agencyblue.es* **or https://instagram.com/desconfigurao**
 - 💬 Owner [AgencyBlue](mailto:hola@agencyblue.es)
